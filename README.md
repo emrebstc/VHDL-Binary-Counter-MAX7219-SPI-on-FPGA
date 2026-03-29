@@ -14,11 +14,12 @@ This project implements an 8-bit binary counter displayed on an 8-digit 7-segmen
 - **Low Resource Usage:** Optimized for small FPGAs.
 
 ## Connection Diagram
+```text
 MAX7219      FPGA Pin (Tang Nano 9K)
 DINPin             53
 CSPin              51 
 CLKPin             35 
-
+```
 ##  Resource Usage Summary
 ```text
 Resource           Usage        Utilization
