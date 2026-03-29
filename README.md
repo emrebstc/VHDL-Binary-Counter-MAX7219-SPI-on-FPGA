@@ -1,5 +1,6 @@
-# VHDL-Binary-Counter-MAX7219-on-FPGA
-This project implements an 8-bit binary counter displayed on an 8-digit 7-segment display controlled by the MAX7219 driver. Designed in VHDL, the system increments the binary value every second. It features a custom Finite State Machine (FSM) for SPI communication
+This project implements an 8-bit binary counter displayed on an 8-digit 7-segment display controlled by the MAX7219 driver. 
+Designed in VHDL, the system increments the binary value every second. 
+It features a custom Finite State Machine (FSM) for SPI communication
 
 ##  Development Environment
 - **FPGA:** Gowin GW1NR series (Tang Nano 9K)
