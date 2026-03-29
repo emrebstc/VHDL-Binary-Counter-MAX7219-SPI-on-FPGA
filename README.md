@@ -16,13 +16,15 @@ This project implements an 8-bit binary counter displayed on an 8-digit 7-segmen
 ## Connection Diagram
 ```text
 MAX7219      FPGA Pin (Tang Nano 9K)
-DINPin             53
-CSPin              51 
-CLKPin             35 
+-------      -----------------------
+DINPin                53
+CSPin                 51 
+CLKPin                35 
 ```
 ##  Resource Usage Summary
 ```text
-Resource           Usage        Utilization
+Resource          Usage        Utilization
+--------          -----        -----------  
 Logic (LUT/ALU)    187 / 8640   3%
 Registers (FF)     111 / 6693   2%
 I/O Ports          5 / 71       8%
