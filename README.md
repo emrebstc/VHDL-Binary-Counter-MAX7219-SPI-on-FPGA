@@ -8,7 +8,7 @@ This project implements an 8-bit binary counter displayed on an 8-digit 7-segmen
 - **Programmer:** Gowin Programmer
 
 ##  Key Features
-- **Real-time Binary Counting:** Increments every 1 second ($f_{clk} = 54 MHz$).
+- **Real-time Binary Counting:** Increments every 1 second (f_clk = 54 MHz).
 - **Efficient SPI Control:** Custom FSM handles initialization and data transmission.
 - **Leading Zero Suppression:** Only active bits are displayed; unused digits remain off until needed.
 - **Low Resource Usage:** Optimized for small FPGAs.
