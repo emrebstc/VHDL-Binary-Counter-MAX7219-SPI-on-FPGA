@@ -32,4 +32,5 @@ Logic (LUT/ALU)    187 / 8640   3%
 Registers (FF)     111 / 6693   2%
 I/O Ports          5 / 71       8%
 
+![max7219-8x7-segment-display-02-1024x1024](https://github.com/user-attachments/assets/dd96dec0-a72b-4002-9a70-614b6b1b97e2)
 
